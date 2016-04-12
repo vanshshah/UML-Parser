@@ -1,8 +1,11 @@
+#UML Parser
+
 Java source code to generate UML Class Diagram from .java files.
-Steps to run the umlparser.jar file:
+
+Steps to run the uml.jar file:
 * Install the Graphviz on the system.
-* Go to Terminal-> navigate to the directory where umlparser.jar resides-> type: java –jar umlparser.jar
-* For example: java -jar /Users/ABC/Desktop/umlparser.jar /Users/ABC/Desktop/JavaFiles /Users/ABC/Desktop/ClassDiag.png
+* Go to Terminal-> navigate to the directory where uml.jar resides-> type: java –jar uml.jar
+* For example: java -jar /Users/ABC/Desktop/uml.jar /Users/ABC/Desktop/JavaFiles /Users/ABC/Desktop/ClassDiag.png
 
 
 Steps to run the source code on Eclipse IDE:
